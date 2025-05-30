@@ -6,6 +6,7 @@ langchain-community==0.3.24
 langchain-core==0.3.63
 langchain-text-splitters==0.3.8
 langsmith==0.3.43
+pipwin
 PyAudio==0.2.14
 numpy==2.2.6
 openai-whisper @ git+https://github.com/openai/whisper.git@dd985ac4b90cafeef8712f2998d62c59c3e62d22
