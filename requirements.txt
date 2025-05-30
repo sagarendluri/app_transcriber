@@ -6,10 +6,9 @@ langchain-community==0.3.24
 langchain-core==0.3.63
 langchain-text-splitters==0.3.8
 langsmith==0.3.43
-numba==0.61.2
+PyAudio==0.2.14
 numpy==2.2.6
 openai-whisper @ git+https://github.com/openai/whisper.git@dd985ac4b90cafeef8712f2998d62c59c3e62d22
-PyAudio
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pytz==2025.2
@@ -22,4 +21,4 @@ streamlit==1.45.1
 torch==2.6.0
 tornado==6.5.1
 tqdm==4.67.1
-whisper==1.1.10
+
