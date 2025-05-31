@@ -10,7 +10,7 @@ pipwin
 # PyAudio==0.2.14
 audio-recorder-streamlit
 # soundfile
-sounddevice
+pyshine
 queue
 numpy==2.2.6
 openai-whisper @ git+https://github.com/openai/whisper.git@dd985ac4b90cafeef8712f2998d62c59c3e62d22
