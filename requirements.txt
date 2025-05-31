@@ -9,7 +9,7 @@ langsmith==0.3.43
 pipwin
 # PyAudio==0.2.14
 audio-recorder-streamlit
-soundfile
+# soundfile
 sounddevice
 queue
 numpy==2.2.6
